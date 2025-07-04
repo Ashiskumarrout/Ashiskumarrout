@@ -76,17 +76,5 @@
 
 ---
 
-### 💬 Developer Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
----
-
-### 🌊 Optional Wave Divider
-
-<!-- You can remove this or add your own SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashiskumarrout/Ashiskumarrout/main/wave.svg" />
-</p>
