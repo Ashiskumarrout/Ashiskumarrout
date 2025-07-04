@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ashis Kumar Rout</h1>
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashis+Kumar+Rout;Full+Stack+Developer+from+Odisha;PHP+%7C+Laravel+%7C+React+%7C+WordPress+%7C+Shopify" alt="Typing SVG" />
+</h1>
+
+<!-- Animated GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
+</p>
+
 <h3 align="center">🚀 Full Stack Web Developer | PHP • Laravel • React • WordPress • Shopify</h3>
 
 ---
@@ -16,37 +25,15 @@
 
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Languages & Tools (Animated Style)
 
-#### 👨‍💻 Programming Languages:
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-#### 🌐 Web Technologies:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-
-#### 🛠️ CMS & Frameworks:
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)
-
-#### 🗄️ Database & Dev Tools:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,wordpress,shopify,mysql,mongodb,git,github,bootstrap,tailwind,canva" />
+</p>
 
 ---
 
-### 🛠️ Projects
+### 💼 Projects
 
 - 🛒 **E-commerce Website** (Laravel, PHP, MySQL, REST API)  
   Features: Auth, Product Listings, SEO Optimized Cart  
@@ -67,27 +54,39 @@
 
 ### 📜 Certifications
 
-- NPTEL: Cloud Computing, MIS, IoT
+- NPTEL: Cloud Computing, MIS, IoT  
 - Java, HTML, ReactJS, JavaScript by KG Coding (Prashant Jain)
 
 ---
 
 ### 📈 GitHub Stats
 
-![Ashis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashiskumarrout&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiskumarrout&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashiskumarrout&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiskumarrout&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ashiskumarrout&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashiskumarrout&theme=radical" />
+</p>
 
 ---
 
 ### 💬 Developer Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
+### 🌊 Optional Wave Divider
+
+<!-- You can remove this or add your own SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashiskumarrout/Ashiskumarrout/main/wave.svg" />
+</p>
